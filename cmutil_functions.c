@@ -1,5 +1,5 @@
 /*
- cm.grainlabs~ - library for granular synthesis external audio object for Max/MSP.
+ Circuit Music Labs utilities library file.
  Copyright (C) 2014  Matthias Müller - Circuit Music Labs
  
  This program is free software: you can redistribute it and/or modify
