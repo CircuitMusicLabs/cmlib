@@ -1,2 +1,2 @@
 # cm_library
-Library files and submodule for external audio objects for [Cycling 74's](https://cycling74.com) Max.
+Library files and submodule for external audio objects for [Cycling 74's](https://cycling74.com) Max. Files to be used in the [cm.grainlabs~](https://github.com/CircuitMusicLabs/cm.grainlabs) repository.
