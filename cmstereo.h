@@ -1,6 +1,8 @@
 /*
  Circuit Music Labs stereo utilities library file.
  Copyright (C) 2014  Matthias Müller - Circuit Music Labs
+ Math and general principle from Boulanger & Lazzarini, "The Audio Programming Book".
+ The MIT Press, 2010.
  
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
