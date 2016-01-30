@@ -7,7 +7,7 @@
 // HANN WINDOW
 void cm_hann(double *window, int *w_size) {
 	int i;
-	for (i = 0; i < size; i++) {
+	for (i = 0; i < *w_size; i++) {
 		window[i] = 0.5 * (1 - cos((2 * M_PI * i) / (*w_size - 1)));
 	}
 	return;
